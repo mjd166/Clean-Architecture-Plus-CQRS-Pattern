@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Final_SophieTravelManagement.Domain/1.0.0": {
+        "dependencies": {
+          "Final_SophieTravelManagement.Shared.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Final_SophieTravelManagement.Domain.dll": {}
+        }
+      },
+      "Final_SophieTravelManagement.Shared.Abstractions/1.0.0": {
+        "runtime": {
+          "Final_SophieTravelManagement.Shared.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Final_SophieTravelManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Final_SophieTravelManagement.Shared.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
