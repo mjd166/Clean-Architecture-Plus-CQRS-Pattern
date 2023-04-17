@@ -8,6 +8,4 @@ namespace Final_SophieTravelManagement.Domain.Policies
         bool IsApplicable(PolicyData data);
         IEnumerable<TravelerCheckListItem> GenerateItems(PolicyData data);
     }
-
-    public record PolicyData(TravelDays days,Consts.Gender gender,Tempreture tempreture, TravelerCheckListDestination destination);
 }
