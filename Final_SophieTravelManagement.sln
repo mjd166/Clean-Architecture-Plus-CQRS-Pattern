@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_SophieTravelManagement.Domain", "Final_SophieTravelManagement.Domain\Final_SophieTravelManagement.Domain.csproj", "{6B84DDE0-CF22-43BC-B0B3-D1B92CCD0E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final_SophieTravelManagement.Domain", "Final_SophieTravelManagement.Domain\Final_SophieTravelManagement.Domain.csproj", "{6B84DDE0-CF22-43BC-B0B3-D1B92CCD0E5D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{795E56FF-6C41-4570-8D58-E2407A8EFDAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_SophieTravelManagement.Shared.Abstractions", "Final_SophieTravelManagement.Shared.Abstractions\Final_SophieTravelManagement.Shared.Abstractions.csproj", "{ABB63EEF-151B-44F1-A1F9-4025AFCA8F63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final_SophieTravelManagement.Shared.Abstractions", "Final_SophieTravelManagement.Shared.Abstractions\Final_SophieTravelManagement.Shared.Abstractions.csproj", "{ABB63EEF-151B-44F1-A1F9-4025AFCA8F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_SophieTravelManagement.Application", "Final_SophieTravelManagement.Application\Final_SophieTravelManagement.Application.csproj", "{33E5E3BC-83CC-432B-A164-B3FB53F592E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final_SophieTravelManagement.Api", "Final_SophieTravelManagement.Api\Final_SophieTravelManagement.Api.csproj", "{CBA55A1D-AF4E-4527-9BB6-E48C0CCA12CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,6 +27,14 @@ Global
 		{ABB63EEF-151B-44F1-A1F9-4025AFCA8F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB63EEF-151B-44F1-A1F9-4025AFCA8F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB63EEF-151B-44F1-A1F9-4025AFCA8F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E5E3BC-83CC-432B-A164-B3FB53F592E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E5E3BC-83CC-432B-A164-B3FB53F592E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E5E3BC-83CC-432B-A164-B3FB53F592E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E5E3BC-83CC-432B-A164-B3FB53F592E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBA55A1D-AF4E-4527-9BB6-E48C0CCA12CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA55A1D-AF4E-4527-9BB6-E48C0CCA12CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA55A1D-AF4E-4527-9BB6-E48C0CCA12CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA55A1D-AF4E-4527-9BB6-E48C0CCA12CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
