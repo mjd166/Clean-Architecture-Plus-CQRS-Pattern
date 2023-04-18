@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Queries\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\Final_SophieTravelManagement.Domain\Final_SophieTravelManagement.Domain.csproj" />
   </ItemGroup>
 
