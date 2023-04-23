@@ -15,3 +15,5 @@ E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTra
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Application\obj\Debug\net5.0\Final_SophieTravelManagement.Application.dll
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Application\obj\Debug\net5.0\ref\Final_SophieTravelManagement.Application.dll
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Application\obj\Debug\net5.0\Final_SophieTravelManagement.Application.pdb
+E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Application\bin\Debug\net5.0\Final_SophieTravelManagement.Shared.dll
+E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Application\bin\Debug\net5.0\Final_SophieTravelManagement.Shared.pdb

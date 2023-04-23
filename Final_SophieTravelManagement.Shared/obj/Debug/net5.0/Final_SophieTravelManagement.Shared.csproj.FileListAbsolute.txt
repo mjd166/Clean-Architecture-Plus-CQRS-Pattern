@@ -10,3 +10,6 @@ E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTra
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Shared\obj\Debug\net5.0\Final_SophieTravelManagement.Shared.dll
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Shared\obj\Debug\net5.0\ref\Final_SophieTravelManagement.Shared.dll
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Shared\obj\Debug\net5.0\Final_SophieTravelManagement.Shared.pdb
+E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Shared\bin\Debug\net5.0\Final_SophieTravelManagement.Shared.Abstractions.dll
+E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Shared\bin\Debug\net5.0\Final_SophieTravelManagement.Shared.Abstractions.pdb
+E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Shared\obj\Debug\net5.0\Final_SophieTravelManagement.Shared.csproj.CopyComplete

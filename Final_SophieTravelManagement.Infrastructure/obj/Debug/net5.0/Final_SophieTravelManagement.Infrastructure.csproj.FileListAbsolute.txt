@@ -20,3 +20,5 @@ E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTra
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Infrastructure\obj\Debug\net5.0\ref\Final_SophieTravelManagement.Infrastructure.dll
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Infrastructure\obj\Debug\net5.0\Final_SophieTravelManagement.Infrastructure.pdb
 E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Infrastructure\obj\Debug\net5.0\Final_SophieTravelManagement.Infrastructure.genruntimeconfig.cache
+E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Infrastructure\bin\Debug\net5.0\Final_SophieTravelManagement.Shared.dll
+E:\techs\kolahdozan articles and tutorials\CleanplusCQRSTutorial\Final_SophieTravelManagement\Final_SophieTravelManagement.Infrastructure\bin\Debug\net5.0\Final_SophieTravelManagement.Shared.pdb

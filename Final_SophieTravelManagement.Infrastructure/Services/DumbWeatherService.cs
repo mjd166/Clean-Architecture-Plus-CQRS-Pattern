@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Final_SophieTravelManagement.Infrastructure.Services
 {
-    public class DumpWeatherService : IWeatherService
+    public class DumbWeatherService : IWeatherService
     {
         public Task<WeatherDto> GetWeatherAsync(TravelerCheckListDestination localization)
         => Task.FromResult(new WeatherDto(new Random().Next(5, 30)));

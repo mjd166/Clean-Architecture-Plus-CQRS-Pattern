@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ldll5lcqJjsyQTf96P8nCvHbOwAJLcx2688wqF0SggQMJIBCfMKsin95MAHDOZ8eKm9c5CnkyVDTPLQm1HzgNw==",
+  "dgSpecHash": "c4n313tW2Z8gLwEOBxg0kW4WA4PYKrJte14Xc/7qt+M9JzLeS7DpCDbgAQeOy9ckWFKD1l+5S1zIEnGpf/7aXA==",
   "success": true,
   "projectFilePath": "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\Final_SophieTravelManagement.Shared.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.0\\microsoft.extensions.configuration.fileextensions.3.1.0.nupkg.sha512",
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.0\\microsoft.extensions.configuration.json.3.1.0.nupkg.sha512",
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.0\\microsoft.extensions.configuration.usersecrets.3.1.0.nupkg.sha512",
