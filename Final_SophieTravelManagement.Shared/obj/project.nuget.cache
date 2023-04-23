@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c4n313tW2Z8gLwEOBxg0kW4WA4PYKrJte14Xc/7qt+M9JzLeS7DpCDbgAQeOy9ckWFKD1l+5S1zIEnGpf/7aXA==",
+  "dgSpecHash": "GLgTd0E4BuJSlUwoF6R2iFre8MutzFD/lfPk3EXt5xlnFNTRsMz2hZ2dNx+29eWG07zE+XnsBWhu0miobWnAmg==",
   "success": true,
-  "projectFilePath": "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\Final_SophieTravelManagement.Shared.csproj",
+  "projectFilePath": "E:\\techs\\kolahdozan_articles_and_tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\Final_SophieTravelManagement.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

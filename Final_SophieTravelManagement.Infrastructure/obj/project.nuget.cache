@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PRMKQmFeRFYndRQYfe10tlsHZETaXsgLiGlnl41FccU1B/M7sUpYRxTgpPD+FpxDZevPAmzrPB3zeMfYObSNHw==",
+  "dgSpecHash": "mvAe/DPrNgyaBtjzc2Wr3/i8dzsWxNpIsEe7OY/GIFhzOlpVUSYw9K/V/6vtV1d38DyMxvs6GTgS/zfPhtZlbA==",
   "success": true,
-  "projectFilePath": "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Infrastructure\\Final_SophieTravelManagement.Infrastructure.csproj",
+  "projectFilePath": "E:\\techs\\kolahdozan_articles_and_tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Infrastructure\\Final_SophieTravelManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAJID\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MAJID\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",

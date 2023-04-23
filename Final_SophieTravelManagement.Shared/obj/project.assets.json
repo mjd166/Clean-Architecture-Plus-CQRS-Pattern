@@ -1185,11 +1185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\Final_SophieTravelManagement.Shared.csproj",
+      "projectUniqueName": "E:\\techs\\kolahdozan_articles_and_tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\Final_SophieTravelManagement.Shared.csproj",
       "projectName": "Final_SophieTravelManagement.Shared",
-      "projectPath": "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\Final_SophieTravelManagement.Shared.csproj",
+      "projectPath": "E:\\techs\\kolahdozan_articles_and_tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\Final_SophieTravelManagement.Shared.csproj",
       "packagesPath": "C:\\Users\\MAJID\\.nuget\\packages\\",
-      "outputPath": "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\obj\\",
+      "outputPath": "E:\\techs\\kolahdozan_articles_and_tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MAJID\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1206,8 +1206,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared.Abstractions\\Final_SophieTravelManagement.Shared.Abstractions.csproj": {
-              "projectPath": "E:\\techs\\kolahdozan articles and tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared.Abstractions\\Final_SophieTravelManagement.Shared.Abstractions.csproj"
+            "E:\\techs\\kolahdozan_articles_and_tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared.Abstractions\\Final_SophieTravelManagement.Shared.Abstractions.csproj": {
+              "projectPath": "E:\\techs\\kolahdozan_articles_and_tutorials\\CleanplusCQRSTutorial\\Final_SophieTravelManagement\\Final_SophieTravelManagement.Shared.Abstractions\\Final_SophieTravelManagement.Shared.Abstractions.csproj"
             }
           }
         }
