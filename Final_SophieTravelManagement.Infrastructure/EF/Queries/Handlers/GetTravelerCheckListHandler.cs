@@ -1,24 +1,29 @@
 ﻿using Final_SophieTravelManagement.Application.DTO;
-using Final_SophieTravelManagement.Domain.Repositories;
+using Final_SophieTravelManagement.Infrastructure.EF.Contexts;
+using Final_SophieTravelManagement.Infrastructure.EF.Models;
+using Final_SophieTravelManagement.Infrastructure.EF.Queries;
 using Final_SophieTravelManagement.Shared.Abstractions.Queries;
+using Microsoft.EntityFrameworkCore;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace Final_SophieTravelManagement.Application.Queries.Handlers
 {
     public class GetTravelerCheckListHandler : IQueryHandler<GetTravelerCheckList, TravelerCheckListDto>
     {
-        private readonly ITravelerCheckListRepository _repository;
+        private readonly DbSet<TravelerCheckListReadModel> _travelerCheckLists;
 
-        public GetTravelerCheckListHandler(ITravelerCheckListRepository repository)
+        public GetTravelerCheckListHandler(ReadDbContext context)
         {
-            _repository = repository;
+            _travelerCheckLists = context.TravelerCheckList;
         }
 
         public async Task<TravelerCheckListDto> HandleAsync(GetTravelerCheckList query)
-        {
-            var travelerchecklist = await _repository.GetAsync(query.Id);
-            //Needs Come Back
-            return null;
-        }
+        => await _travelerCheckLists
+            .Include(p => p.Items)
+            .Where(p => p.Id == query.Id)
+            .Select(p => p.AsDto())
+            .AsNoTracking()
+            .SingleOrDefaultAsync();
     }
 }

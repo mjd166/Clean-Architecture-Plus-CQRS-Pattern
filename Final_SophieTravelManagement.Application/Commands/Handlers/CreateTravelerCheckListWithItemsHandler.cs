@@ -13,17 +13,25 @@ namespace Final_SophieTravelManagement.Application.Commands.Handlers
         private readonly ITravelerCheckListRepository repository;
         private readonly ITravelerCheckListFactory factory;
         private readonly IWeatherService weatherService;
+        private readonly ITravelerCheckListReadService _readService;
 
-        public CreateTravelerCheckListWithItemsHandler(ITravelerCheckListRepository repository, ITravelerCheckListFactory factory, IWeatherService weatherService)
+        public CreateTravelerCheckListWithItemsHandler(ITravelerCheckListRepository repository, ITravelerCheckListFactory factory, IWeatherService weatherService
+            ,ITravelerCheckListReadService readService)
         {
             this.repository = repository;
             this.factory = factory;
             this.weatherService = weatherService;
+            this._readService = readService;
         }
 
         public async Task HandleAsync(CreateTravelerCheckListWithItems command)
         {
             var (id, name, days, gender, DestinationWriteModel) = command;
+
+
+            if (await _readService.ExistByNameAsync(name))
+                throw new TravelerCheckListAlreadyExistsException(name);
+
 
             var destination = new TravelerCheckListDestination(DestinationWriteModel.city, DestinationWriteModel.country);
             var weather = await weatherService.GetWeatherAsync(destination);
